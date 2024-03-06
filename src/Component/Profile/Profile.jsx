@@ -28,7 +28,7 @@ const Profile = () => {
           <div className="col-lg-8 col-md-7">
             <div className="team-single-text padding-50px-left sm-no-padding-left">
               <h4 className="font-size38 sm-font-size32 xs-font-size30">Profile</h4>
-              <p className="no-margin-bottom">Hello</p>
+              <p className="no-margin-bottom">Là sinh viên năm thứ hai tại Trường FPT, đã nhanh chóng gây ấn tượng với giáo viên và bạn bè của mình bằng niềm đam mê và sự nỗ lực không ngừng trong lĩnh vực lập trình web. Với kiến thức vững chắc về HTML, CSS, và JavaScript, cùng với sự quan tâm sâu sắc đối với các framework phía front-end như React, em đã tạo ra nhiều ứng dụng web đẹp mắt và chức năng. em cũng dành thời gian để tìm hiểu sâu hơn về back-end, với mong muốn trở thành một full-stack developer toàn diện. Dù mới chỉ ở giai đoạn đầu của hành trình, em đã thể hiện sự chăm chỉ, sẵn sàng học hỏi và khả năng giải quyết vấn đề một cách sáng tạo. Sự tận tâm và khả năng làm việc nhóm không chỉ giúp anh đạt được thành tích học tập xuất sắc mà còn là nguồn cảm hứng cho nhiều bạn bè và người xung quanh.</p>
               <div className="contact-info-section margin-40px-tb">
                 <ul className="list-style9 no-margin">
                   <li>
@@ -116,6 +116,7 @@ const Profile = () => {
                     <div className="col-7">JS</div>
                     <div className="col-5 text-right">50%</div>
                   </div>
+
                 </div>
                 <div className="custom-progress progress">
                   <div role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100" style={{ width: '50%' }}
